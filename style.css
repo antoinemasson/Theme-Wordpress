@@ -1,0 +1,14 @@
+/*
+Theme Name:     archerstyle
+Theme URI:      http://example.com/
+Description:    Thème enfant pour le thème Twenty Thirteen
+Author:         Antoine Masson
+Author URI:     http://example.com/about/
+Template:       twentythirteen                            
+Version:        1.0.0
+*/
+
+
+@import url("../twentythirteen/style.css");
+
+/* =Theme customization starts here */
